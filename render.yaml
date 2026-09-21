@@ -13,3 +13,5 @@ services:
         sync: false
       - key: ADMIN_IDS
         sync: false
+      - key: DB_CHANNEL
+        sync: false
